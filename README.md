@@ -4,7 +4,7 @@ A new Flutter application.
 
 
 <p align="center">
-  <img alt="Frontend" src="github/app.psd" width="100%">
+  <img alt="Frontend" src="github/app.png" width="100%">
 </p>
 
 ## Getting Started

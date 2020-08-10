@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "615327892186",
+    "firebase_url": "https://lojavirt-dbb74.firebaseio.com",
+    "project_id": "lojavirt-dbb74",
+    "storage_bucket": "lojavirt-dbb74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615327892186:android:09b9317bad386bc3275be3",
+        "android_client_info": {
+          "package_name": "slooock.com.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615327892186-pll04d6int05jll637ml3l9bsrp8stmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1y1Jz9UDNx-8_Pm0kADBBwkqWtg9PdtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615327892186-pll04d6int05jll637ml3l9bsrp8stmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

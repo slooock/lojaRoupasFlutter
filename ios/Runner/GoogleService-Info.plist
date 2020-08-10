@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>615327892186-9qbg7q0q94q1kath3a9m5p6ccnqkmusr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.615327892186-9qbg7q0q94q1kath3a9m5p6ccnqkmusr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyADSC9QNakm6XMTrUtSGkZk6imAdoH1nJI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>615327892186</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>slooock.com.flutterApp</string>
+	<key>PROJECT_ID</key>
+	<string>lojavirt-dbb74</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lojavirt-dbb74.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:615327892186:ios:25a6292bc63b5804275be3</string>
+	<key>DATABASE_URL</key>
+	<string>https://lojavirt-dbb74.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,6 +1,11 @@
-# flutter_app
+# Loja de Roupas
 
 A new Flutter application.
+
+
+<p align="center">
+  <img alt="Frontend" src="github/app.psd" width="100%">
+</p>
 
 ## Getting Started
 

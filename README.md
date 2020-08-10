@@ -1,6 +1,6 @@
 # Loja de Roupas
 
-A new Flutter application.
+Aplicação desenvolvida para iOS e Android usando Flutter.
 
 
 <p align="center">

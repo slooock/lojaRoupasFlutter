@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Nessa opção você não precisa ter uma conta no Figma e poderá visualizar o layout diretamente pelo navegador, mas ela é limitada a 50 acessos simultâneos. Após os 50 acessos simultâneos, só é permitido acessá-lo em modo de "Apenas visualizar" o layout, e nada mais.
 
-[Clique aqui para acessar o layout Web](https://www.figma.com/file/BGcjFzEN2zuwcYGP5Jye1T/Loja-Roupas-Flutter?node-id=0%3A1)
+[Clique aqui para acessar o layout da aplicação](https://www.figma.com/file/BGcjFzEN2zuwcYGP5Jye1T/Loja-Roupas-Flutter?node-id=0%3A1)
 
 ## Getting Started
 

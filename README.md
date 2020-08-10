@@ -7,6 +7,13 @@ A new Flutter application.
   <img alt="Frontend" src="github/app.png" width="100%">
 </p>
 
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Firebase](https://firebase.google.com/)
+- [Flutter](https://reactjs.org)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
